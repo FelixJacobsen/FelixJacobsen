@@ -1,6 +1,6 @@
 ### Hi there, I'm Felix Jacobsen 👋
 
-I'm currently studying to be a Java full developer at IT-Högskolan, Gothenburg.
+I'm currently studying to be a Java full-stack developer at IT-Högskolan, Gothenburg.
 
 <br />
 
