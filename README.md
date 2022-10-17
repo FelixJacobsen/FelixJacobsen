@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixjacobsen&label=Profile%20views&color=0e75b6&style=flat" alt="felixjacobsen" /> </p>
 
-- 🌱 I’m currently learning **Vue 3, Node.js**
+- 🌱 I’m currently learning **Vue 3, Node.js, React**
 
 - 📫 How to reach me **felix.jacobsen@iths.se**
 
