@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felix Jacobsen</h1>
-<h3 align="center">I'm currently studying to be a Java full-stack developer at IT-Högskolan, Gothenburg.</h3>
+<h3 align="center">Full-stack developer with focus on backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixjacobsen&label=Profile%20views&color=0e75b6&style=flat" alt="felixjacobsen" /> </p>
 
-- 🌱 I’m currently learning **Vue 3, Node.js, React**
+- 🌱 I’m currently learning **React.js and C++**
 
-- 📫 How to reach me **felix.jacobsen@iths.se**
+- 📫 How to reach me **felix.jacobsen@iths.se or http://www.felixjacobsen.se**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
